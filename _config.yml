@@ -1,0 +1,28 @@
+name: Sandcastles
+favicon: null
+layout_spectrum: 0.5122130629606545
+typography_spectrum: 0.6711595426313579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2099736863747239
+  lightness: 0.8033453617244959
+  saturation: 0.5767264105379581
+  rhythmicContrast: 0.6503286405932158
+purpose: []
