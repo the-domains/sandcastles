@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sandcastles]]></title>
+        <description><![CDATA[Sandcastles]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 00:39:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Marriage Didn't End When I Became a Widow]]></title>
+            <description><![CDATA[<article><h1>My Marriage Didn't End When I Became a Widow</h1><p>When my husband died from cancer last March at age 37, I was so grief-stricken I could barely sleep. One afternoon, I visited his grave - in a field high in the Santa Cruz Mountains, overlooking the Pacific Ocean - and lay on top of it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c605847b86446862e46096838a6a026804cb2af.png"></article>]]></description>
+            <link>http://mobile.nytimes.com/blogs/opinionator/2016/01/06/my-marriage-didnt-end-when-i-became-a-widow/?referer=http%3A%2F%2Fm.facebook.com</link>
+            <guid isPermaLink="false">1f8e0ac0-afff-4c95-bdb5-3c90249e850b</guid>
+            <pubDate>Thu, 25 Feb 2016 00:39:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
