@@ -4,11 +4,11 @@
         <description><![CDATA[Sandcastles]]></description>
         <link>https://thegrid.ai/sandcastles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 07:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 06:12:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sandcastles/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Aquarium - The New Yorker]]></title>
-            <description><![CDATA[<article><h1>The Aquarium - The New Yorker</h1><p>On July 15, 2010, my wife, Teri, and I took our younger daughter, Isabel, to the doctor for a regular checkup. She was nine months old and appeared to be in perfect health. Her first teeth had come in, and she was now regularly eating with us at the dinner table, babbling and shovelling rice cereal into her mouth.</p><img src="http://www.newyorker.com/wp-content/uploads/2011/06/110613_r20985_p886-886-630.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Aquarium - The New Yorker</h1><p>On July 15, 2010, my wife, Teri, and I took our younger daughter, Isabel, to the doctor for a regular checkup. She was nine months old and appeared to be in perfect health. Her first teeth had come in, and she was now regularly eating with us at the dinner table, babbling and shovelling rice cereal into her mouth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7febe77b6597152bc90359b71c93e2b8/noop.jpg?input=http%3A%2F%2Fwww.newyorker.com%2Fwp-content%2Fuploads%2F2011%2F06%2F110613_r20985_p886-886-630.jpg"></article>]]></description>
             <link>http://www.newyorker.com/magazine/2011/06/13/the-aquarium</link>
             <guid isPermaLink="false">c80a618b-74b3-4064-b6dd-ef313515594b</guid>
             <pubDate>Wed, 13 Jul 2016 07:07:33 GMT</pubDate>
@@ -67,13 +67,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ad25d91-8fff-45dd-a4f1-dabf7f28138e.jpg">]]></description>
             <link>https://thegrid.ai/sandcastles/3f4583bf-25c4-4002-9773-c77434f78e3c/index.html</link>
             <guid isPermaLink="false">3f4583bf-25c4-4002-9773-c77434f78e3c</guid>
-            <pubDate>Thu, 25 Feb 2016 00:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3e13efe-dfe7-40e8-9c22-124df708f781.png">]]></description>
-            <link>https://thegrid.ai/sandcastles/006a9f5c-4ca0-4f2b-8435-a531b56bd997/index.html</link>
-            <guid isPermaLink="false">006a9f5c-4ca0-4f2b-8435-a531b56bd997</guid>
             <pubDate>Thu, 25 Feb 2016 00:41:12 GMT</pubDate>
         </item>
     </channel>
